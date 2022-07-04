@@ -1,7 +1,7 @@
 # Yago Gomes
 
 ## Olá 👋
-Sou Yago Gomes, desenvolvedor web com gosto pelo back-end mas buscando melhorar no front-end, sou formado em Sistemas de Informação, trabalhando a 1 ano com PHP, Javascript e SCSS, desenvolvo alguns projetos para estudar/aperfeiçoar com Laravel e atualmente fazendo um curso de Javascript para melhorar meus conhecimentos.
+Sou Yago Gomes, um desenvolvedor web apaixonado pelo back-end, formado em Sistemas de Informação, trabalhando a 2 anos com PHP, Javascript e SASS, desenvolvendo projetos para estudo e aperfeiçoamento, atualmente fazendo cursos com foco em javascript como Node e React. Buscando oportunidades para me desafiar e crescer na área, sempre indo atrás de conhecimento.
 
 :rocket:  &nbsp; Atualmente trabalhando na **ZLX Projetos WEB**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos com Laravel e Javascript
